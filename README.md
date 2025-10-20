@@ -1,4 +1,4 @@
-# Pong 05
+# Ping Pong 05
 
 Repositorio base para comenzar a desarrollar videojuegos 2D con **Flutter**, **Flame** y **Forge2D**.
 
